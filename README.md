@@ -1,6 +1,7 @@
-# orthodox_daily
+# Orthodox Daily
 
-A new Flutter project.
+This is an in-progress app I am making. The goal of the app is to keep people's mind on God and their limited time on 
+earth by sending them notifications twice a day at random times containing bible verses and quotes from the church fathers
 
 ## Getting Started
 
